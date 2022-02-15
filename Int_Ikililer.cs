@@ -23,6 +23,13 @@ namespace Integer_Ikılilerin_Toplamı
             }
             return sonuc;
         }
+        public void IkilileriEkranaYazdırma(List<double> list)
+        {
+            foreach (var item in list)
+            {
+                System.Console.WriteLine(item+" ");
+            }
+        }
     }
 }
 // 0-1, 2-3
