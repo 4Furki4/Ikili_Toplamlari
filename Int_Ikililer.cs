@@ -11,15 +11,15 @@ namespace Integer_Ikılilerin_Toplamı
             {
                 if(arr[i] == arr[i+1])
                 {
-                    double result = Math.Pow(arr[i]+arr[i+1],2);
-                    sonuc.Add(result);
+                    double result = Math.Pow(arr[i]+arr[i+1],2); // İkililer eşitse bu şekilde toplamlarının karesini alıyorum ve
+                    sonuc.Add(result); // listeye ekliyorum.
                 }
                 else
                 {
-                    double result = arr[i]+arr[i+1];
-                    sonuc.Add(result);
+                    double result = arr[i]+arr[i+1]; // eşit olmayan ikilileri sadece toplayıp 
+                    sonuc.Add(result); // listeye ekliyorum.
                 }
-                i++;
+                i++; // 0-1. indexi yaptıkran sonra 1-2 olmaması, 2-3. index olması için 1 kere elle i'yi artırıyorum.
             }
             return sonuc;
         }

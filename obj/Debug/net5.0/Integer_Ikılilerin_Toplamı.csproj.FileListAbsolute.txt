@@ -1,0 +1,16 @@
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\bin\Debug\net5.0\Integer_Ikılilerin_Toplamı.exe
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\bin\Debug\net5.0\Integer_Ikılilerin_Toplamı.deps.json
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\bin\Debug\net5.0\Integer_Ikılilerin_Toplamı.runtimeconfig.json
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\bin\Debug\net5.0\Integer_Ikılilerin_Toplamı.runtimeconfig.dev.json
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\bin\Debug\net5.0\Integer_Ikılilerin_Toplamı.dll
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\bin\Debug\net5.0\ref\Integer_Ikılilerin_Toplamı.dll
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\bin\Debug\net5.0\Integer_Ikılilerin_Toplamı.pdb
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.csproj.AssemblyReference.cache
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.AssemblyInfoInputs.cache
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.AssemblyInfo.cs
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.dll
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\ref\Integer_Ikılilerin_Toplamı.dll
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.pdb
+C:\Users\Furkan Cengiz\Desktop\Integer_Ikılilerin_Toplamı\obj\Debug\net5.0\Integer_Ikılilerin_Toplamı.genruntimeconfig.cache

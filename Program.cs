@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Integer_Ikılilerin_Toplamı
 {
@@ -6,7 +7,12 @@ namespace Integer_Ikılilerin_Toplamı
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Konsol_Islemleri konsol= new Konsol_Islemleri();
+            Int_Ikililer Ikililer= new Int_Ikililer();
+            konsol.IlkMesaj();
+            Ikililer.IkilileriEkranaYazdırma(Ikililer.Ikililerin_Islemleri(konsol.KonsoldanSayılarıAl()));
+            
+            
         }
     }
 }
